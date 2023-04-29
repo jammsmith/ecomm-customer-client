@@ -1,0 +1,71 @@
+.header {
+  background-color: $color--secondary;
+  color: $color--primary;
+  display: grid;
+  font-size: $font-size--md;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 1fr 2fr;
+  height: 27rem;
+  place-items: center;
+
+  &__linkGroup {
+    grid-column: 1 / 3;
+    grid-row: 1 / 1;
+
+    &__link {
+      display: inline-block;
+      margin: $space--sm;
+
+      &:hover {
+        color: $color--primary-hover;
+      }
+    }
+  }
+
+  &__logo {
+    grid-column: 6 / 8;
+    grid-row: 1 / 1;
+  }
+
+  &__currency {
+    grid-column: 11 / 12;
+    grid-row: 1 / 1;
+  }
+
+  &__cart {
+    grid-column: 12 / 13;
+    grid-row: 1 / 1;
+  }
+
+  &__banner {
+    align-items: center;
+    background-color: black; // this will be an image
+    display: flex;
+    flex-direction: column;
+    font-size: $font-size--lg;
+    gap: $space--xl;
+    grid-column: 1 / 13;
+    grid-row: 2 / 2;
+    height: 100%;
+    justify-content: center;
+    letter-spacing: $letter-spacing--title;
+    width: 100vw;
+
+    &__heroText {
+      color: white;
+      font-weight: bold;
+      max-width: 60%;
+      text-align: center;
+
+      &--underline {
+        text-decoration: underline;
+      }
+    }
+
+    &--shop {
+      font-size: $font-size--md;
+      justify-content: flex-end;
+      padding-bottom: $space--lg;
+    }
+  }
+}

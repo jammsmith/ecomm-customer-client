@@ -1,0 +1,222 @@
+[
+  {
+    "isoCode": "DE",
+    "country": "Germany",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "GB",
+    "country": "United Kingdom",
+    "deliveryZone": "uk"
+  },
+  {
+    "isoCode": "FR",
+    "country": "France",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "IT",
+    "country": "Italy",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "ES",
+    "country": "Spain",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "UA",
+    "country": "Ukraine",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "PL",
+    "country": "Poland",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "RO",
+    "country": "Romania",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "NL",
+    "country": "Netherlands",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "BE",
+    "country": "Belgium",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "CZ",
+    "country": "Czech Republic",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "GR",
+    "country": "Greece",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "PT",
+    "country": "Portugal",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "SE",
+    "country": "Sweden",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "HU",
+    "country": "Hungary",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "BY",
+    "country": "Belarus",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "AT",
+    "country": "Austria",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "RS",
+    "country": "Serbia",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "CH",
+    "country": "Switzerland",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "BG",
+    "country": "Bulgaria",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "DK",
+    "country": "Denmark",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "FI",
+    "country": "Finland",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "SK",
+    "country": "Slovakia",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "NO",
+    "country": "Norway",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "IE",
+    "country": "Republic of Ireland",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "GB",
+    "country": "Northern Ireland",
+    "deliveryZone": "uk"
+  },
+  {
+    "isoCode": "HR",
+    "country": "Croatia",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "MD",
+    "country": "Moldova",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "AL",
+    "country": "Albania",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "LT",
+    "country": "Lithuania",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "MK",
+    "country": "North Macedonia",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "SI",
+    "country": "Slovenia",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "LV",
+    "country": "Latvia",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "EE",
+    "country": "Estonia",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "ME",
+    "country": "Montenegro",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "LU",
+    "country": "Luxembourg",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "MT",
+    "country": "Malta",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "IS",
+    "country": "Iceland",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "AD",
+    "country": "Andorra",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "MC",
+    "country": "Monaco",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "LI",
+    "country": "Liechtenstein",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "SM",
+    "country": "San Marino",
+    "deliveryZone": "europe"
+  },
+  {
+    "isoCode": "US",
+    "country": "USA",
+    "deliveryZone": "usa"
+  }
+]

@@ -1,0 +1,53 @@
+// Color
+$color--primary: #8dd9bf; // teal
+$color--primary-hover: #7cbaa4;
+$color--secondary: #28211e; // dark brown
+$color--secondary-hover: #394039;
+$color--white: #fff;
+$color--white-hover: #f3f2ef;
+$color--disabled: #c6c6c6;
+$color--error: #dc143c;
+$color--success: #54c69f;
+
+// Font size
+$font-size--xs: 0.75rem;
+$font-size--sm: 1rem;
+$font-size--md: 1.25rem;
+$font-size--lg: 1.75rem;
+$font-size--xl: 2.5rem;
+
+// Font family
+// ???
+
+// text misc
+$letter-spacing--title: 0.15rem;
+
+// Spacing
+$space--xs: 0.25rem;
+$space--sm: 0.5rem;
+$space--md: 1rem;
+$space--lg: 2rem;
+$space--xl: 4rem;
+
+:export {
+  color--primary: $color--primary;
+  color--primary-hover: $color--primary-hover;
+  color--secondary: $color--secondary;
+  color--secondary-hover: $color--secondary-hover;
+  color--white: $color--white;
+  color--white-hover: $color--white-hover;
+  color--disabled: $color--disabled;
+  color--error: $color--error;
+  color--success: $color--success;
+  font-size--xs: $font-size--xs;
+  font-size--sm: $font-size--sm;
+  font-size--md: $font-size--md;
+  font-size--lg: $font-size--lg;
+  font-size--xl: $font-size--xl;
+  letter-spacing--title: $letter-spacing--title;
+  space--xs: $space--xs;
+  space--sm: $space--sm;
+  space--md: $space--md;
+  space--lg: $space--lg;
+  space--xl: $space--xl;
+}
